@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\Daniel-Bukvi\Daniel-Bukvi\bin\Debug\Daniel-Bukvi.exe.config
+C:\Users\Daniel\source\repos\Daniel-Bukvi\Daniel-Bukvi\bin\Debug\Daniel-Bukvi.exe
+C:\Users\Daniel\source\repos\Daniel-Bukvi\Daniel-Bukvi\bin\Debug\Daniel-Bukvi.pdb
+C:\Users\Daniel\source\repos\Daniel-Bukvi\Daniel-Bukvi\obj\Debug\Daniel-Bukvi.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Daniel-Bukvi\Daniel-Bukvi\obj\Debug\Daniel-Bukvi.exe
+C:\Users\Daniel\source\repos\Daniel-Bukvi\Daniel-Bukvi\obj\Debug\Daniel-Bukvi.pdb
